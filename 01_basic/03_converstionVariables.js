@@ -17,6 +17,11 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 //console.log(booleanIsLoggedIn);
  let N = 33
  let M = String(N)
- console.log(M);
- console.log(typeof M);
+ //console.log(M);
+ //console.log(typeof M);
+
+ let ok= "1"
+ let oks=Number(ok);
+ console.log(oks);
  
+  
